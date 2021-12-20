@@ -1,0 +1,11 @@
+c343 /summer 2020
+lab -15
+july 24, 2020 11:30 
+clare tidmarsh, cmtidmar
+
+3 important things:
+
+1. understanding the pseudocode of dijksta's algorithm
+2. the differences between dijksta's algorithm and floyd's algorithm
+3. being able to do the algorithm on paper on a graph, so you can learn the concept of it visually before implementing it in a code.
+

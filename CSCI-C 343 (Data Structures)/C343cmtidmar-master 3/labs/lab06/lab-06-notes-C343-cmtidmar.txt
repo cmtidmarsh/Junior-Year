@@ -1,0 +1,19 @@
+  
+C343 / Summer 2020
+lab notes - 06
+July 3, 2020 22:59
+Clare Tidmarsh, cmtidmar
+
+
+
+For this Lab 06 participation, in your class notes, write down at least 3 items of importance that 
+you noticed during Lab 06, or 3 new items that you learned during Lab 06.
+
+
+3 important/learned items:
+
+1. For this assignment, it really tested my inability to make object methods. I think it is important to know how to make other
+  methods other than just void and static methods, like object.
+2. It is important for you to know how to set up a static array and a dynamic array and the differnences between them.
+3. It is important for you to understand when it is appropriate to use either method, and it is important to understand the
+time complexities of those methods so you have an idea of how it'll run when you implement either.

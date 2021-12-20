@@ -1,0 +1,24 @@
+C322 Spring 21
+----------------------------------
+mjbouvet@iu.edu - Michael Bouvette 
+brockar@iu.edu - Allie Brock 
+anchit@iu.edu - Andrew Chitester
+
+In your Team/Student Contract statement document, specify:
+the name and IU email addresses (not your numerical IU IDs) for all members in your team
+
+your C322 Lecture 14 IntelliJ IDEA project's name;
+GameOfLife
+
+your IU GitHub submission date/time for Lecture 14
+Monday March 8th 2021
+
+a statement about having read, and accepted, the IU Code of Student Rights, Responsibilities, & Conduct. In particular, that you agree to "Uphold and maintain academic and professional honesty and integrity".
+We have read and agree to the IU Code of Student Rights. To make this clear, we "Uphold and maintain academic and professional honesty and integrity".
+
+Your Team/Student Contract needs to be turned in to the project (color-named) IU GitHub repository, one per team.
+
+
+
+Hello, we went ahead and used the MVC and Observable patterns and drew our implementation on lucid chart.
+

@@ -1,0 +1,25 @@
+Group 13: Kevin Cao(kevcao@iu.edu), Adam Hilinski(ajhilins@iu.edu), Luke Klein(luklein@iu.edu)
+
+File Listings:
+	Controller
+		Controller.java
+	Model
+		AddOperation.java
+		Model.java
+		Operation.java
+		SubtractOperation.java
+		TestModel.java
+	View
+		CalculatorButtonPanel.java
+		CalculatorFrame.java
+		CalculatorScreenPanel.java
+	Run.java
+
+	hw01evaluationByA01Team13.txt
+	
+	a01-teamContract.txt
+	
+Submission Time:
+	2/18/2021 ~6PM
+
+Our group will uphold and maintain acadmeic and professional honest and integrity.

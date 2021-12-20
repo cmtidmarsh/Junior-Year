@@ -1,0 +1,21 @@
+Team 14
+Will Boland	woboland@iu.edu
+
+For task A, we will be evaluating 4 teams ahead of us, based off of their organization. We will also evaluate their design of their UML diagram. Specificallym to lab 10 (GameOfLife). This will be done out of 100 points. We will assign points as per the table of the evaluation criteria given. Lastlym we will explain every choice we made. For task B, we will oridinally rank all Lab 10 submissions. Task C is our own team eval, done seperatly.
+
+---Team 15---
+1)
+    - Lecture 17 was organized as requested. They used proper naming for their files.
+    - Lecture 18 was organized as requested. They used proper naming for their files.
+    - Lab 10 was organized as requested. They used proper naming for their files.
+
+---Team 16---
+1)
+    - Lecture 17 was organized as requested. They used proper naming for their files.
+    - Lecture 18 was organized as requested. They use proper naming for their files and did good job on showing that.
+    - Lab 10 was organized as requested. They used proper naming for their files.
+
+---Team 17---
+
+
+---Team 18---

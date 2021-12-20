@@ -1,0 +1,10 @@
+C322 Spring 2021
+Lecture09
+02/17
+
+Team 09:
+Christopher Kazmierzak : cjkazmie@iu.edu
+Tyler Burdon : tcburdon@iu.edu
+Joe Soellner : josoell@iu.edu
+
+ - we did not get far enough to test the code, so we don't have an output

@@ -1,0 +1,187 @@
+CSCI-C322 hw03
+04/05/2021
+16:52
+Richard Caraher (rjcarahe@iu.edu)
+Nolan Cauley (nmcauley@iu.edu)
+Clare Tidmarsh (cmtidmar@iu.edu)
+
+Team 14:
+Evaluate the organization of the assigned four teams submissions in the file/directory structure. Points you're determining for this part: exponential deduction.
+
+Lecture 17: Not Organized- has Lecture18.pdf without an explanation as to why Lecture 17 has a 
+Lecture 17 diagram as well as the Lecture 18 diagram. For someone merely looking at the files without 
+context, it raises the question why and the relevance for Lecture 18 diagram being in Lecture 17’s 
+folder and in Lecture 18’s folder too. Also, the naming-convention for Lecture 17 task seems to be 
+off as “Lecture 17 Real.pdf'' does not seem to follow guidelines. What is “real”? The document also 
+only has one name on it, whereas, other teams’ diagrams have all of the authors names listed. 
+Point Deduction: -2%
+
+Lecture 18: Partially/Not Organized- Lecture contains the UML diagram for the Lecture 18 task. 
+Diagram correctly displays a choice of M-VC for implementation. However, Lecture 18 UML diagram has 
+the same name convention issue as did Lecture 17. The file name itself should be in the category-
+C322-Team##.txt format as well as the all names of people on the team should be included on the 
+actual diagram itself not just one name. However, the content in the diagram is organized with 
+exception to the one arrow from the note to what is believed to be pointing at the 
+BinaryCalculatorController() method or the entire box itself.
+Point Deduction: -4%
+
+Lab 10: Partially/Not Organized- Some files follow naming conventions and are appropriately placed in 
+the correct directory. The folder contains a subfolder that has the workspace.xml file. No code or 
+xml file should be in this folder.The diagram and readme are presented. The diagram should have a 
+similar name to the README file
+(i.e. lab-10-UML-Class-Diagram-C322-Team##.pdf).
+Point Deduction: -8%
+
+Evaluate the Design: the UML diagram and the description of the remote object interface, as prepared 
+by the previous team for their Lab 10. Points you're determining for this part: 100 points.
+	
+Documentation - The provided UML document contains an accurate and obvious split with the distributed 
+object in the RMI in a MC-V approach to RMI implementation. All methods, classes, and interfaces are 
+clearly and properly labeled. Some of the finalized layout of the UML document falls a little short, 
+but mostly on the aesthetic side, such as failing to straighten out an implementation arrow. All 
+operations are in the correct corresponding class.
+Points Received: Excellent 50/50
+
+Specification - Team 14 showed no documentation change between lectures 17 - 18 having submitted the 
+same UML document for both lecture 18 as for lab 10. No documentation on changes was made due to no 
+changes being implemented. Some of the rules regarding the implementation of Conway’s Game of Life 
+seem to be missing, such as the ability to change the life state of a cell, an update object method 
+exists in the view, but it is not clear that the update would update more than the updateView() 
+method in the controller. Another major piece of functionality that appears to be missing is ability 
+to count neighboring cells. No methods that exist within the UML document have any obvious references 
+to acquiring data on neighboring cells to properly adjust the current cell. 
+Points Received: Adequate 40/50
+
+Total Points: 76/100 (76%)
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Team 15:
+Evaluate the organization of the assigned four teams submissions in the file/directory structure. 
+Points you're determining for this part: exponential deduction.
+
+Lecture 17: Organized- everything in lecture17 was properly named with a readme and pdf documents. 
+The UML diagram itself is a little difficult to see where the RMI is happening with the distributed 
+object but still everything is there and appears correct. Readme has proper names and description of 
+the process. 
+No point deduction necessary.
+
+Lecture 18: Organized- everything looks orderly and properly named in the correct folder. Even 
+includes a document describing the changes made in UML diagram from M-VC to MC-V. Diagram once again 
+is a little confusing in the lack of client/server separation but nothing alarmingly wrong. 
+No point deduction necessary.
+
+Lab 10: Organized- contains appropriate diagram for RMI adaptation of CGL. Folder contains everything 
+that was asked for students to submit. This UML did not change from the lecture 18 though and makes 
+it hard to tell if it was before or after the three paragraph described changes (due to UML document 
+being hard to decipher)
+No point deduction necessary.
+
+Evaluate the Design: the UML diagram and the description of the remote object interface, as prepared 
+by the previous team for their Lab 10. Points you're determining for this part: 100 points.
+
+Documentation- No clear division between what is the distributed object and how the RMI is working in 
+terms of MC-V as discussed in their Lecture 18 submission. From the UML it appears that the 
+controller is the distributed object that each client obtains and uses with their individual view and 
+model. This seems to contradict the MC-V and appear moreso as a MV-C. Other than that all of the 
+methods, variables, and extended and implemented classes appear to make sense. The lines seem to be
+correct yet there is an interesting relation showing that the view and the class Game have instances 
+of the Controller. This makes for the aforementioned confusion.
+Points Received: Adequate 35/50
+
+Specification-  Team properly adapted from lecture 17 and 18 into their RMI implementation of Conway 
+in terms of work submitted and overall UML progression. When changes were made (Lecture 18) the 
+document explaining the changes was placed correctly and gave reasons to why changes were necessary. 
+That being said I don’t believe the UML diagram reflected these changes and rather the changes were 
+just done in the code implementation. Because of this the UML in Lab10 was never changed either and 
+had some other implementation in mind. That being said it’s hard to say exactly because the clarity 
+of the documentation makes the M-V-C relation hard to decipher especially under the context of RMI 
+and distributed objects 
+Points Received: Adequate 40/50
+
+Total Points: 75/100 (75%)
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Team 16:
+Evaluate the organization of the assigned four teams submissions in the file/directory structure.
+Points you're determining for this part: exponential deduction
+
+Lecture 17: Organized- The file names are written correctly as per the name conventions that are 
+required throughout the course. Their team README file has all of the appropriate content (i.e. 
+names, IU email addresses, submission date, and tasks completed). Their UML diagram looks clean and 
+easy to read with appropriate arrows. No point deduction necessary.
+
+Lecture 18: (Partially?) Organized- It’s hard to say from looking at different groups if a team 
+README is supposed to be in the C322 project documents. Some teams have one, and some teams do not. 
+Since we have been in the same teams for lecture 17 and lecture 18, the two lectures should be 
+consistent with each other. Meaning if there is a completion team README in lecture 17, then I would 
+expect one in lecture 18’s task as well. Since half of the teams have a README in lecture 18 and half 
+does not, I do not think it was very clear in either lecture or the documentation where a readme 
+goes, if it is required in this lecture. The file also has the appropriate name convention as well. 
+Therefore, a point deduction is not necessary. 
+
+Lab 10: Organized- File has appropriate name convention. Diagram has an appropriate title pertaining 
+to the task and authors listed below. The diagram itself is organized nicely. You can see the 
+development of the diagram from lecture 17, lecture 18, to now lab 10. It is very clean and uses the 
+types of arrows, lines, and boxes according to the UML diagram documentation given in earlier 
+lectures. Content is also easy to read and clear.
+No point deduction necessary.
+
+Evaluate the Design: the UML diagram and the description of the remote object interface, as prepared 
+by the previous team for their Lab 10. Points you're determining for this part: 100 points.
+
+Documentation- The UML diagram is well-prepared, and clearly understandable. The diagram itself shows 
+that this team clearly understands how to properly write a UML diagram with appropriate usage of 
+types of arrows, boxes, etc. Methods, classes, interfaces, RMI, and Client are clearly labeled. The 
+diagram has appropriate operations corresponding to the classes they are in. 
+Points Received: 50/50 (50%)
+
+Specification- Minor details of the design specification are violated or misunderstood. For Lecture 
+17, teams were required to implement an RMI and Client into a previous binary calculator diagram. 
+Team 16 did this clearly and MVC pattern was properly implemented. For lecture 18, Teams had to 
+create a UML diagram for Conway’s Game of Life. Their diagram clearly shows which classes are 
+implemented as remote objects. However, the in reference has clear rules of life and death of cells. 
+They implement a countLiveNeighbors() method, but setting a neighbor to be dead is a little unclear. 
+Is that supposed to to be referenced in the step() method? 
+Points Received: 48/50 (48%)
+
+Total Points: 98/100 (98%)
+
+-----------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
+
+Team 17:
+Evaluate the organization of the assigned four teams submissions in the file/directory structure.
+Points you're determining for this part: exponential deduction.
+	
+Lecture 17: Not Organized- lecture 17 folder contains UML documentation for the lecture 18 task. 
+README has appropriate content (names, IU emails, submission date,	and parts completed section), 
+however, the name of the file is missing either Team color or Team number. If you were to download 
+this file, you would not know from the title nor could you find the team number in the document which 
+team this is. 
+Point Deduction: -2%
+
+Lecture 18: Not Organized- lecture 18 folder contains no documentation, missing both a UML diagram 
+and a readme.
+Point Deduction: -4%
+
+Lab 10: Not Organized- Lab 10 folder contains no UML diagram or README file. No document was 
+submitted for Team 17’s Lab 10 task. 
+Point Deduction: -8%
+
+
+Evaluate the Design: the UML diagram and the description of the remote object interface, as prepared 
+by the previous team for their Lab 10. Points you're determining for this part: 100 points.
+
+Documentation- No UML Diagram. No documentation provided. Hence, the requirements were not met.
+Points Received: 0/50 (0%)
+
+Specification- Since there was no UML Diagram file and no description of what they could have
+designed, the design specifications were not met. Requirements of lab 10 were not met.
+Points Received: 0/50 (0%)
+
+Total Points: 0/100 (0%)
+

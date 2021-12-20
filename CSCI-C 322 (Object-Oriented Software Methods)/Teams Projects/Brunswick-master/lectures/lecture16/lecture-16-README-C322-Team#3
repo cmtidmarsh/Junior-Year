@@ -1,0 +1,7 @@
+Group 3
+Ben Billings (benbilli@iu.edu),
+Jiahui Chang(chanji@iu.edu),
+Christopher Taddeucci(ctaddeuc@iu.edu)
+3/15/2021
+
+We constructed the lab01 file to use the interface and server to print "hello world" with rmi. Unfortunately, the server rejected the interface. I believe this is because our file lacked the permits file.

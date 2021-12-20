@@ -1,0 +1,33 @@
+lecture 17 
+Organization:
+lecture 17 is organized as requested.
+
+UML: Total: 90% out of 100% 
+
+Documentation: Adequate(100%) 
+Specifications: Adequate(80%) 
+There is a confusion with no arrow point at with the Operator in Model. 
+The UML has a bad formatting according to the UML class diagram tuition, which classes and methods are not showing as they should be. 
+ The arrows are also not clear in class view between those buttons. 
+
+
+Lecture18
+Organization: 
+Lecture18 was well organized as requested.
+
+UML: 90 points out of 100 
+
+Documentation: Excellent The UML was well done. They clearly indicated the relationship between each class, and every arrows were used correctly. 
+Specification: Adequate The details of each class are sufficient. However, all instance variables and methods are public.
+
+Lab 10
+Organization is correct for the lab10 UML submission and readme. 
+
+
+UML Eval
+Documentation: Adequate
+THe UML documentation was adequate. It is clear of the relationships between all of the classes but I can’t tell the multiplicities of each. I also can’t tell exactly which side of the uml is on the server and which is on the client. Both would be helpful  
+
+
+Specifications: Excellent
+All specifications were met.

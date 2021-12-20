@@ -1,0 +1,93 @@
+Team 04 Canary
+Ploy Unchit punchit@iu.edu
+CSCI 322 / Spring 21'
+Mitja Hmeljak
+
+The organization is fine. It is corrected placed in the Canary/hw/hw01 folder. They 
+included all the tasks in one PDF. They had good headers for every single task, except
+the last one, which is the use case flowchart. I'd say their organization is overall 
+somewhat acceptable.
+
+They could have been more clear on the "why" part of the description. They didn't really
+explain why a binary calculator is important. They included their state diagram and 
+flowchart. Instead of adding the "Wait for second input," in their state diagram, I 
+think it should display the operation. The first half of the flowchart is really
+confusing. I think their properties in the class diagrams are well named. I don't think
+they finished their view class diagram because equals and AC is blank. I think their
+controller class diagram is fine.
+
+[20 points] for the README/general description design document file
+[20 points] for the UML Use Case Diagram
+[25 points] for one among the following:
+a UML Activity Diagram (i.e. flowchart), or
+a UML State Diagram, or
+a UML Sequence Diagram,
+[25 points] for the UML Class Diagram
+
+90/100
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+Team 04 Canary
+Clare Tidmarsh, cmtidmar@iu.edu
+CSCI 322 / Spring 21'
+Mitja Hmeljak
+
+
+Organization Evaluation of HW01
+-------------------------------
+HW01 Team 04 did well on their organization portion of the homework. I am very impressed by adding/titling the general
+description as well as the implementation of the binary calculator app. I know I in my description that I did not even
+thing to organize the written portion how they did. It looks a lot cleaner and straight forward when someone who did not
+write it reads it. In regards to their graphs, I think their organization is fine, but could be a little better. You see
+that they labeled every graph except for their Case UML Graph at the end, but that could also have been a slight mistake
+that is easily fixable. The information in the graphs are well, uniformly organized as if the same person created them.
+However, as a critique, for me as the reader, it would make more sense to have the Case Diagram as the first diagram, then
+the MVC diagrams, and lastly the State Diagram in the document. I say this because if someone with no prior knowledge were
+to read it, they would first want to know what the app does in terms of activities/events. After knowing what the app
+is supposed to implement, then I feel as though it'll be a smoother transition to go into how to implement the functions
+technically. Lastly, after you have implemented the backend portion or MVC diagrams, then you can go into what happens
+when the operations and inputs are selected by the user. So first you establish what the does is supposed to do, then
+what makes it perform the functionality, and lastly what the user views when using it with the functions in place. 
+
+
+Diagram Evaluation of HW01
+--------------------------
+UML Use Case Diagram: I think the information in the diagram is correct and easy to read (a.k.a very straight forward),
+but where the equals and set operation is placed is a little confusing. From the graph, it looks as though you're supposed
+to set both the first and second number at the same time then it will display it without having to use the operations and
+equals that you would normally need to input in the calculator. Usually, calculators ask for the first input, then the
+operation, then the second input number, and then lastly the equals for a basic 1+1 function. I think to the reader who
+did not create the diagram, it is a little confusing to understand how everything relates together.
+
+UML Model and Controller Class Diagrams: I am putting my evaluation for the model and controller class diagrams together
+because they essentially have the same critique. Typically, in a UML Class diagram, you would have the MVC all together,
+however, since they did not put their MVC's together into one diagram, I feel as though they should have expanded their
+diagrams into the methods that each class uses and how those methods are used within the model and controller, so basically
+like how they relate to the constructor, any interfaces (Observer), etc. The actual content in their model and view diagrams
+are essentially just the Observer/Observable box and the controller/model class box once once you take out the repeated
+relations of the model, view, and controller diagram at the bottom of each as well as their brief computation logic. I
+think these diagrams would have been better if they showed exactly how the observer and observable relates within the
+classes themselves/relates to the methods in each class. Not saying they are bad diagrams, they are really good, but I
+just think they could have been more detailed in dissecting the methods and how any interfaces and imported classes
+are used. 
+
+UML View Class Diagram: I think their UML View Class Diagram is more along the lines of a UML Class Diagram than the
+Model and Controller. Here, they dissected the methods a little moreso than the other diagrams and showed moreso the 
+relations of methods, classes/interfaces, etc within the class. Though, the "Equals" and "AC" operations look a little
+unfinished at the end. I do believe that "Equals" is still technically an operation in order to perform the addition
+or subtraction. I would also note that "AC" is a possible "operation" or event as well as it clears the inputs and/or
+result. 
+
+State Diagram: The graph itself is fine. However, I do not think you necessarily have to have an "end" marker as the
+"display solution" is the last state, but the user can choose to add onto the solution by selecting an operation then
+inputting a second input. I think it should have been noted that it can go in a cycle, even though I know that they
+are just depicting one simple operation. They also should have connected "display 1st operand" to the "reset pressed"
+as they did for the "Wait for Second Input" and "Display 2nd Operand" since the user could decide to clear it even after
+selecting their first input. But the as is, is good. Just a few minor additions should probably be added. 
+
+[25 points] for the README/general description design document file
+[18 points] for the UML Use Case Diagram
+[20 points] for the UML State Diagram
+[16 points] for the UML Class Diagram
+
+79/100

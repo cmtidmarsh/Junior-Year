@@ -1,0 +1,21 @@
+Evaluation for Team 13
+
+Task 1:
+-At lab 10 the submission in the shared repository is organized
+-At lecture 17 the submission in the shared repository is organized
+-At lecture 18 the submission in the shared repository is organized
+
+
+Task 2: 
+For lab 10 the UML is really clear and arrows are used correctly. It is very clear where the RMI
+would be placed and the logic is easy to follow. The UML should recieve a 100% based on the diagram 
+evaluation criteria.
+
+For lecture 17 the UML itself is somewhat hard to follow but all the parts are there. The notes and
+text boxes added really help the understanding of the document and show the logic of the people who
+produed it. All the design aspects that needed to be added were and the UML formatting was followed correctly.
+The UML should recieve a 100% based on the diagram evaluation criteria.
+
+Lecture 18 is very similar to lab 10. All the uml formatting is used correctly in terms of lines and arrows.
+The RMI is very clearly shown within the UML diagram and the logic is easy to follow. All design aspects
+that needed to be added are present. The UML should recieve a 100% based on the diagram evaluation criteria.

@@ -1,0 +1,9 @@
+grant {
+        permission java.net.SocketPermission "*", "connect";
+        permission java.net.SocketPermission "*", "accept";
+
+        // Here is how you could set file permissions:
+        permission java.io.FilePermission 
+        "C:/Users/Dylan/Documents/C322/Brunswick/assignments/a02/C322ForagerResources/initial-board.txt", "read";
+
+     };

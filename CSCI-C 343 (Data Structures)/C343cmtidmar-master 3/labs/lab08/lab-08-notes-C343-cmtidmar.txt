@@ -1,0 +1,19 @@
+// C343 / Summer2020
+// Lab - 08
+// July 9, 2020 16:21
+// Clare Tidmarsh, cmtidmar
+
+
+For this Lab 08 participation, in your class notes, write down at least 3 items of importance that you noticed during Lab 08,
+or 3 new items that you learned during Lab 08.
+
+
+3 items of importance:
+
+1. For me at least, I noticed when I wrote down the algorithm of what the program is supposed to do beforehand, it made it 
+easier to understand and go through what each line is supposed to do. 
+
+2. Take a mental note, or write out comments for what each item in the starter code does, so you know what the start code
+is doing like when we had to explain in the Task A portion of a part of the code.
+
+3. Recalling exactly how to implement a hashtable/dictionary.

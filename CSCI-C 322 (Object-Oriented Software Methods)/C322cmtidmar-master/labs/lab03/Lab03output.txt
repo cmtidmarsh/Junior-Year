@@ -1,0 +1,49 @@
+
+DuckTestDrive.java output
+-------------------------
+
+The Turkey says...
+Gobble gobble
+I'm flying a short distance
+
+The Duck says...
+Quack
+I'm flying
+
+The TurkeyAdapter says...
+Gobble gobble
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance
+I'm flying a short distance
+
+Process finished with exit code 0
+
+
+TurkeyTestDrive.java output
+---------------------------
+
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+I'm flying
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+The DuckAdapter says...
+Quack
+
+Process finished with exit code 0

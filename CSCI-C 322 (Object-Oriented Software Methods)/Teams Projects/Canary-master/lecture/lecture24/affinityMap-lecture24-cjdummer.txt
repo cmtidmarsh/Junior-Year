@@ -1,0 +1,21 @@
+Team 4
+Christian Dummer cjdummer@iu.edu
+Samantha Sharp sharpsam@iu.edu
+Adam Wittenberg adamwitt@iu.edu
+
+Methods
+-How does the board get updated on the client side?
+	-Get Resources method returns the board state
+-What are the classes’ constructors? How is it initialized?
+	-Provides model at start with a board, either from a txt file or a user input
+-What is the double array of boards in ForagerModel?
+	-Board is a 2d int array in controller, not a type
+Classes
+-What does the ForagerServer interface do? (is it supposed to be there?)
+	- Not supposed to be there
+-Why does tile not contain a variable to hold the state of the tile to draw(i.e. whether a resource or player is there)
+	-The color of the tile represents what is in it
+-Why is board not a defined class?
+	-Board is a 2d int array in controller, not a type
+-Why is player only on the client side?
+	-It is accessed by both client and server

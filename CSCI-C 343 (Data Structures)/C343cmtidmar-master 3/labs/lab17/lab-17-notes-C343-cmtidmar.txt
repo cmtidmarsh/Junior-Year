@@ -1,0 +1,24 @@
+C343/Summer 2020
+Lab -17
+July 30, 2020 14:00
+Clare Tidmarsh, cmtidmar
+
+
+" For this Lab 17, as lab participation:
+submit your own class notes for Lab 17, as from Course Syllabus:
+"you'll need to take your own class notes at lecture and lab times, either handwritten or typed. We may ask you to
+submit your lecture notes from a specific lecture, to verify participation (handwritten = you'll send us a scan or
+photo of your notes; typed = we'll ask you to send us a plain-text (.txt or .md if you prefer to use MarkDown syntax
+in your plain-text files) or PDF version of your own class notes."
+For this Lab 17 participation, in your class notes, write down at least 3 items of importance that you noticed during 
+Lab 17, or 3 new items that you learned during Lab 17.
+Name your notes file lab-17-notes-C343-username.txt.
+Due by 4:30PM on Thursday, July 30, 2020.
+Follow C343 Submission Instructions about your notes file content type, encoding, and submission.
+(see Lab video if you can not attend the Zoom meeting) "
+
+3 items of importance:
+
+1. How to traverse through a AVL Tree and a B-Tree
+2. How insertion and deletion works manually
+3. Knowing the difference between an AVL Tree and a non AVL tree

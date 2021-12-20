@@ -1,0 +1,111 @@
+C322 / Spring 2021
+Lab 13
+4/15/2021
+
+Team 9 (Flamingo):
+Tanner Hay (tanhay)
+Adam Martinez (asm9)
+Camisa Vines (cdvines)
+
+
+
+Updated interface: https://github.iu.edu/C322-Spring2021/C322-students-repo/blob/master/labs/lab13/ForagerInterface.java 
+
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+public interface ForagerInterface extends Remote {
+
+
+
+HashMap<Integer, Pair<Integer, Integer>> getPlayerPositions(int except) throws RemoteException;
+    the method's signature:
+    
+        input data and types (objects/classes), example values, and possible ranges of values (e.g. min/max expected inputs, if applicable)
+        - Takes in an integer representing the playerID. MIN: 0, MAX: Number of players (-/+ 1)
+
+        output data and types (objects/classes), example values, and possible ranges of values (e.g. min/max possible outputs, if applicable)
+            - Returns HashMap<Integer, Pair<Integer, Integer>> - A hashmap of player ID's with a Pair of (X, Y) coordinates.
+            - throws RemoteException A remoteException for any undefined behavior, or connection loss.
+
+        the method's functionality: describe the functionality of each method, outlining any data processing caused by invoking the method
+            - Accessing the instance variable stored within the player class
+
+        example use: write an example of when/how the method would be invoked by the client application, and how the server would respond to that method being called.
+            - getPlayerPositions(1) would return {1: (10, 10)}
+
+
+
+void sendPlayerPosition(int playerID, int positionX, int positionY) throws RemoteException;
+    the method's signature:
+    
+        input data and types (objects/classes), example values, and possible ranges of values (e.g. min/max expected inputs, if applicable)
+            - Takes in an integer playerID with MIN: 0, MAX: number of players (-/+ 1)
+            - Takes in an integer positionX MIN: 0, MAX: Size of the game board 256?
+            - Takes in an integer positionY MIN: 0, MAX: Size of the game board 256?
+
+        output data and types (objects/classes), example values, and possible ranges of values (e.g. min/max possible outputs, if applicable)
+            - Has no return type
+            - throws RemoteException A remoteException for any undefined behavior, or connection loss.
+
+        the method's functionality: describe the functionality of each method, outlining any data processing caused by invoking the method
+            - Sends the position of the given player from the client to the server.
+
+        example use: write an example of when/how the method would be invoked by the client application, and how the server would respond to that method being called.
+            - sendPlayerPosition(1, 10, 10) would send the coordinates (10, 10) to the server
+
+
+int gatherResource(int forPlayer) throws RemoteException;
+    the method's signature:
+    
+        input data and types (objects/classes), example values, and possible ranges of values (e.g. min/max expected inputs, if applicable)
+            - Takes in an integer playerID with MIN: 0, MAX: number of players (-/+ 1)
+
+        output data and types (objects/classes), example values, and possible ranges of values (e.g. min/max possible outputs, if applicable)
+            - Returns the amount of resources that were consumed
+
+        the method's functionality: describe the functionality of each method, outlining any data processing caused by invoking the method
+            - resource used to increment player's health or number of resources
+            
+        example use: write an example of when/how the method would be invoked by the client application, and how the server would respond to that method being called.
+            - gatherResource(3) would first increment a player's health and return 3
+
+
+void updateResources() throws RemoteException;
+    the method's signature:
+    
+        input data and types (objects/classes), example values, and possible ranges of values (e.g. min/max expected inputs, if applicable)
+            - No inputs
+
+
+        output data and types (objects/classes), example values, and possible ranges of values (e.g. min/max possible outputs, if applicable)
+            - No output
+
+        the method's functionality: describe the functionality of each method, outlining any data processing caused by invoking the method
+            - use the given formula to generate new resources
+
+        example use: write an example of when/how the method would be invoked by the client application, and how the server would respond to that method being called.
+            - updateResources()
+
+
+int[][] getResources() throws RemoteException;
+    the method's signature:
+    
+        input data and types (objects/classes), example values, and possible ranges of values (e.g. min/max expected inputs, if applicable)
+            - No inputs
+            
+        output data and types (objects/classes), example values, and possible ranges of values (e.g. min/max possible outputs, if applicable)
+            - Returns the 2D int array that represents the board MAX: size of the array
+            
+        the method's functionality: describe the functionality of each method, outlining any data processing caused by invoking the method
+            - return of an instance variable
+
+        example use: write an example of when/how the method would be invoked by the client application, and how the server would respond to that method being called.
+            - getResources()
+
+
+}
+
+
+
+

@@ -1,0 +1,23 @@
+C322 Spring 2021
+Assignment 02
+04/21/2021		
+Group 13
+Joshua Levy: jomlevy@iu.edu (33.3% work)
+Riley Campbell: riricamp@iu.edu (33.3% work)
+Kendall Mangrum: kmangrum@iu.edu (33.3% work)
+
+Files we are submitting:
+ForagerUML.pdf
+permit
+README.txt
+Team Contract.txt
+Controller.java
+Input.txt
+Model.java
+ModelIntf.java
+Pair.java
+PairFactory.java
+View.java
+
+
+We all agree to uphold and maintain IU's honor code and policies.

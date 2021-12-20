@@ -1,0 +1,20 @@
+Ochre Team Contract Statement
+
+Members
+  Dean Allen deanalle@iu.edu
+  Jack Palmer palmerjw@i.edu
+  Denzel Clark dentclar@iu.edu
+  
+  
+All Files
+  BinaryCalculatorModel.java
+  BinaryCalculatorController.java
+  BinaryCalculatorView.java
+  
+Contract Statement  
+  We have read and acceped the IU Student Conduct and agree to "Uphold and maintain academic and professional honesty and integrity".
+      Signed by
+          Dean Allen 02/18/2022
+          Jack Palmer 02/18/2022
+          Denzel Clark 02/18/2022 
+  

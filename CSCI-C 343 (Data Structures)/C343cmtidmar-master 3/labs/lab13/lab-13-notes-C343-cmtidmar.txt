@@ -1,0 +1,22 @@
+C343 / SUMMER 2020
+LAB - 13
+JULY 22, 2020 15:34
+Clare Tidmarsh, cmtidmar
+
+
+"For this Lab 13, as lab participation:
+submit your own class notes for Lab 13, as from Course Syllabus:
+"you'll need to take your own class notes at lecture and lab times, either handwritten or typed.
+We may ask you to submit your lecture notes from a specific lecture, to verify participation (handwritten = you'll send us a
+scan or photo of your notes; typed = we'll ask you to send us a plain-text (.txt or .md if you prefer to use MarkDown syntax
+in your plain-text files) or PDF version of your own class notes."
+For this Lab 13 participation, in your class notes, write down at least 3 items of importance that you noticed during Lab 13,
+or 3 new items that you learned during Lab 13.
+Name your notes file lab-13-notes-C343-username.txt.
+Due by 4:30PM on Wednesday, July 22, 2020."
+
+3 items of importance:
+
+1. Understanding the functionality of Breadth First Search and Depth First Search
+2. Understanding that components are a collection of nodes that are connected together, a graph may have multiple components
+3. The size of a component is how many nodes are in it.

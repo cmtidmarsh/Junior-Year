@@ -1,0 +1,11 @@
+ Initial state :  valid : false
+TestCPPassed :true
+testAQPassed :true
+testBRPassed :true
+testBPPassed :true
+testCQPassed :true
+testCRPassed :true
+TestCPPassed :true
+testString1Passed :true
+testString2Passed :true
+testString3Passed :true

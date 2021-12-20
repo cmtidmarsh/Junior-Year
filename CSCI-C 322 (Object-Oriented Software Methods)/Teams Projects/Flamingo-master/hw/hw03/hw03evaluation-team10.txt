@@ -1,0 +1,75 @@
+ Spring 2021 C322
+ Andrew Chitester
+ anchit@iu.edu
+
+Hello, here is my contribution 
+The evaluation of Team10.
+
+Team10, Team9 + 1 = Team10:
+
+Part one, Organization:
+
+ Lab10 
+ - contains a file named 'GameOfLife.pdf', which is exactly what I want to see. I don't believe there is any requirements for the file name - so this is perfect. No points deducted.
+
+ Lecture18 
+ - contains a single 'GameOfLife.pdf', which again is exactly what we want. No extra files or strays - no points deducted.
+
+ Lecture17 
+ - contains 'M-VC Diagram.pdf', which demonstrates that it is organized correctly. No points deducted.
+
+
+ Team10 Organization: -0 points
+
+Part two, Design:
+
+ Description (from Labs/Lab10/Team-10/GameOfLife.pdf): 
+  "We are switching from the M-CV version of the distribution to the MC-V version of the distribution since the intention for the game of life is that all users are able to see the same game. \nWe felt that the MC-V version would better than the M-CV version because the controller being local side would eat up local memory without really providing much benefit to the application especially when compared to the Binary Calculatore which took actual inputs from the view."
+ 
+ My initial thoughts are that this wasn't proof read, calculator is misspelt -- there are grammatical errors etc. I get the gist, they want their users to see the same game board instead of seeing different ones, and this is why they need to change the distribution of the model view and controller -- and perhaps they were trying to fit an obtuse word count, but it definitely is harder to read than it could be. I'll hand it to them though, for this class it seems like adequate work.
+ 
+ Description (from Lectures/Lecture18/Team-10/GameOfLife.pdf):
+  //same as Description for Lab10, yet with respect - this isn't expected to run so it seems like a more adequate submission.
+  Adequate job following instructions 'Modify your team's design ... Save a UMl Class diagram for this new design ...' that leads me to believe they performed an adequate submission and deserve an adequate grade. What makes this not excellent is how generally ambiguous the instructions for RMI are, and how obtuse their description is. Because of the lacking RMI and obtuse (yet not accomplishing much) description I feel they did an adequate job.
+  Lecture18 Description: Adequate.
+
+ Description (from Lectures/Lecture17/Team-10/GameOfLife.pdf):
+  Their description is very minimal - "perofrmOp() in the controller will make a call to the server to perform the addition or subtraction on the clientside variables." This seems at first glance an acceptable description. Lecture 17 doesn't seem to require much about a description so this seems like a valid one.
+
+ Diagram (again Labs/Lab10/Team-10/GameOfLife.pdf):
+  I'm told to make sure everything follows the 'Diagram standards' but there is no instance of this in the lectures notes...
+  I suppose the whole lecture is about 'Diagram standards', so I'll brush up --
+  It looks like they meant to use a hollow arrow to demonstrate implementation of the two interfaces Observer and Observable, yet Observable isn't an interface -- it's something you would want to extend. This flaw would make their implementation impossible to compile, you can only implement interfaces. What they did do, was label the two parts, as stated in their description, "Server" and "Local", which makes it easy to understand that they are pairing the model and controller on the server. Another important aspect is that they state that 'rmi feeds the results to the view', in between the view and the controller. It seems that because they included this I will give them 80% for the Documentation as it is Adequte - I'm able to get the gist, but it is not excellent as they don't seem to understand the Observable design pattern.
+
+ Diagram (Lecture/Lecture18/Team-10/GameOfLife.pdf):
+  This is the same diagram as the one for their lab, but this one isn't expected to be fully functional (heavily implying to update a UML to correct implementation). Because of this, their errors in misunderstanding the Observer pattern seem to be adequate. What makes this not excellent is the missunderstanding of Observer /Observable, and the incorrect usage of arrows. They should be a hollow arrow but instead they used a non closed arrow. 
+  
+  ----|> is what we want, yet they have --->
+
+  Because of this I feel they deserve an Adequate grade, as it is an understandable diagram, they want to implement the game of life using Observers, but their are minor problems that would become hiccops when they implement this.
+
+ Diagram (Lecture/Lecture17/Team-10/M-VC Diagram.pdf)
+  there are two parts here to digest, one a general Server / client relationship demonstrating the view and controller being used by the client and the model being on the server. They extrapolate on this in a large diagram with classes 'Model', 'Controller' and 'View' each having a general association with each other, yet there is no mention of RMI or which classes are remote objects. If there was mention of RMI I would give this an adequate grade, but because of this, it deserves a poor grade.
+
+ Now for the Specifications, my understanding is that I need to make sure they completed everything required of them.
+  1. Can't confirm they wrote readmes
+  2. Can't confirm they wrote individual readmes
+  3. They started from their previous design. In fact, it looks like they didn't make any modifications, I've checked over multiple times and don't see anything. Maybe they were happy with it(?).
+  4. Can't confirm they implemented it.
+  5. Can't confirm
+  6. ...
+  9. The UML Was not updated, and as I found earlier the UML needed to be adjusted.
+
+  No updated UML -10
+  No documentation about which classes are remote objects -10
+  They wrote why they decided to change their M-VC to MV-C -0
+  
+  Based on the fact that their UML was never updated I'm inclined to grade them 'Poor'. Justified by the lacking changes needed to get this running and the lack of specifications on which classes are remote objects. 'rmi feeds the results to the view' is a lacking description of what is going on and implies not fully understanding what is being accomplished by the rmi.
+
+
+ Labs/Lab10/Team-10/GameOfLife.pdf -> Poor (60%)
+ Lectures/Lecture18/GameOfLife.pdf -> Adequate (80%)
+ Lecture/Lecture17/GameOfLife.pdf -> Adequate - Poor (70%)
+
+ Team10 -> 70%
+

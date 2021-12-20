@@ -1,0 +1,14 @@
+Evaluation for Team 11
+
+Task 1:
+-At lecture 17 time, submissions in the shared repository is organized
+-At lecture 19 time, submissions in the shared repository is not organized (no submission): deduct -4%
+-At lab 10 time, submissions in he shared repository is not organized (no submissions): deduct -2%
+
+Task 2:
+The UML's for lecture 19 and lab 10 are not present at all so They will recieve 0% for those two entries.
+
+The UML for lecture 17 has an incorrect use and non-consistent use of arrows. It also does not clearly 
+specify the distinction for the RMI. It is missing key aspects of the design that are required (such as the RMI).
+It is not easy to follow and no written documentation to explain meaning is given. This UML would recieve a 60%
+based on evaluation criteria.

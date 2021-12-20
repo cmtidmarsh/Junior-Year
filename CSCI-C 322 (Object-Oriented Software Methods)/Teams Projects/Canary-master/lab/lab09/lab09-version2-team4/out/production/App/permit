@@ -1,0 +1,9 @@
+grant {
+        permission java.net.SocketPermission "*", "connect";
+        permission java.net.SocketPermission "*", "accept";
+
+        // Here is how you could set file permissions:
+        // permission java.io.FilePermission "/tmp/*", "read";
+
+      };
+

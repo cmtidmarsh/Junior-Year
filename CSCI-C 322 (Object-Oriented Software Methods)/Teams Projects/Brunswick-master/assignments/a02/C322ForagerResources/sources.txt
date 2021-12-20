@@ -1,0 +1,10 @@
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\Cell.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\ConcretePlayer.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\Controller.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\ForagerGame.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\ForagerIntf.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\Pair.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\Player.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\PlayerDecorator.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\ThreePair.java
+C:\Users\Dylan\Documents\C322\Brunswick\assignments\a02\C322ForagerResources\src\View.java

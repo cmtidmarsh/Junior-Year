@@ -1,0 +1,7 @@
+Riley Campbell riricamp@iu.edu - Zachary Wendholt zwendhol@iu.edu
+
+Sunilsakthivel was not present for Lecture.
+
+Should there be a checker in place to make sure that two people don't have the same player ID?
+
+Any reason the board updates every 3 seconds?

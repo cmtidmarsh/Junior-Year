@@ -1,0 +1,26 @@
+C343 / Summer 2020
+Lab Participation - 11
+July 16, 2020 15:02
+Clare Tidmarsh, cmtidmar
+
+"Lab 11 Participation
+For this Lab 11, as lab participation:
+submit your own class notes for Lab 11, as from Course Syllabus:
+"you'll need to take your own class notes at lecture and lab times, either handwritten or typed. We may ask you to submit
+your lecture notes from a specific lecture, to verify participation (handwritten = you'll send us a scan or photo of your
+notes; typed = we'll ask you to send us a plain-text (.txt or .md if you prefer to use MarkDown syntax in your plain-text
+files) or PDF version of your own class notes."
+For this Lab 11 participation, in your class notes, write down at least 3 items of importance that you noticed during
+Lab 11, or 3 new items that you learned during Lab 11.
+
+Due by 4:30PM on Thursday, July 16, 2020.
+Follow C343 Submission Instructions about your notes file content type, encoding, and submission.
+(see Lab video if you can not attend the Zoom meeting)"
+
+
+3 items of importance:
+
+1. Make sure that assignments are at 100% completion and working in order in case it is used in future assignments
+2. This lab I was unsure about a lot of it but wasn't exactly sure how to phrase and ask, so I guess an important thing 
+that I learned was if you really unsure, ask a TA to look at your code and clear things up?
+3. Verify that you know how to implement observer and what the functions do.

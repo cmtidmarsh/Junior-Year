@@ -1,0 +1,27 @@
+C322 / Spring 2021
+Hw01
+02/12/2021
+Team 9
+
+The binary system is a numerical system and only 0 and 1 are used by the binary system and every digit is referred to as a bit.
+Compared to hexadecimal or octal, binary literals allow for a clearer relationship between data. 
+The binary calculator in our homework is used to perform addition and subtraction of two binary numbers. 
+The binary calculator is important because it simplifies the design of computers and related technologies by using them instead of the decimal method.
+
+This is an emulator of a binary computer,
+which can perform the addition and subtraction
+of the binary numbers consists of "1" and "0".
+The binary computer can also keep the result of
+the previous operation as the first digit of the
+current operation. This computer can clear zero can
+also accumulate phase addition and subtraction.
+The user can see the calculation process and result
+in time on the display screen. This function of
+retaining results is conducive to improving the
+efficiency and accuracy of users' use. The input of
+binary digits is prone to errors, and this automatic
+retention function increases the user's convenience.
+
+Description of Binary Calculcator App: The main functionality of the Binary Calculator is to calculate the sum or difference between to binary numbers.
+This is useful because binary calculation isn't something that is practiced often by the average person and therefore would take a while to do without a calculator. Also,
+computers can calculate most mathematical operations faster than any human, therefore this app would allow one to spend a  lot less time on these binary calculations.

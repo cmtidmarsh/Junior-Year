@@ -1,0 +1,24 @@
+Ochre Team 14: 
+Student Contract Statement
+
+Ochre Team 14 Members
+          Daniel Akinniranye   dakinnir@iu.edu
+          Clare Tidmarsh       cmtidmar@iu.edu
+          Zach Wendholt        zwendhol@iu.edu
+  
+All Files
+          Controller.java
+          ForagerInterface.java
+          ForagerModel.java
+          Player.java
+          PlayerDecorator.java
+          Tile.java
+          View.java
+          permit.txt
+  
+Contract Statement  
+  We have read and acceped the IU Student Conduct and agree to "Uphold and maintain academic and professional honesty and integrity".
+      
+          Daniel Akinniranye    04.21.2021
+          Clare Tidmarsh        04.21.2021
+          Zach Wendholt         04.21.2021 

@@ -1,0 +1,6 @@
+Team Flamingo
+Lecture 16 Task
+CSCI-C322 Spring 2021
+
+We tried to use the beginning "Hello World" project for this task. We mainly manipulated the existing server/class files to work with our HelloWorld thing.
+Our problems included a connectexception in which our connection request timed out/was refused. We also got lost among the changes we were making as we were flustered with the lack of time.

@@ -1,0 +1,44 @@
+Assignment01 - Document of Changes
+
+Group09:
+Joe Soellner josoell
+Chris Kazmierzak cjkazmie
+Tyler Burdon tcburdon
+
+2/19/2021
+
+We had issues with the GUI and differences between Mac and Windows, so we had to defined two different GUIs.
+One that works on Mac and one that works on Windows.
+
+Document of Changes ---------------------------------------------------------------------------
+
+Our AI instructed us to document any changes we had to make to our MVC for the purpose of
+functionality, what we changed is defined below:
+
+In the UML Diagram we saw that the team seemed a little confused between the use of the View
+and the Controller - We put the methods they defined in the Controller into the View and vice
+versa. We tried to retain their methods to the best of our ability without sacrificing 
+functionality.
+
+There were some classes listed in the diagram (Button, Label) that were not used - the instructions
+for this assignment stated "you have to use built-in Java SE components from JFC/Swing" so we
+used these features instead
+
+Expanded on the variables given in the View - they listed "input, result or operand"
+We took that sentiment and had variables that had those functions, named differently though
+
+Some methods like getClear(), displayoperandTwosubtraction(), displayoperandOneAddation() did not seem to have functionality,
+so we redifined methods for what we thought the group wanted
+
+Other than that, we tried to replicate the UML diagrams as much as possible - we retained most of
+what was listed and only changed what was absolutely neccessary for functionality
+
+Changes to Controller from orginal design:
+- removed updateView method and replaced with EqualsListener subclass
+	there was no way around not having a listener in the Controller with previous team's implementation
+	pretty sure previous team was expecting updateView to do the job of the listener, but that is not possible with just a method
+	so we turned it into a subclass and named it appropriately as to make it easier on the next group and not confuse them
+- removed classes Button, Label, Display, and Background that were likely supposed to go into View
+	we think the previous team made a simple but big error in putting those classes in the Controller, so we go approval from an AI to simply move them as part of the View
+
+No changes to Model needed.

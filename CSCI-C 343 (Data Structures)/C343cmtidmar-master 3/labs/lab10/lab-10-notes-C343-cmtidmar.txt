@@ -1,0 +1,13 @@
+C343 / Summer 2020
+Lab Participation - 10
+July 15, 15:22
+Clare Tidmarsh, cmtidmar
+
+For this Lab 10 participation, in your class notes, write down at least 3 items of importance that you noticed during Lab 10,
+or 3 new items that you learned during Lab 10.
+
+3 items of importance:
+
+1. Recalling how to extract data from files i.e. the strings from the two files
+2. The Hamming Distance is assumed to have strings with equal lengths before computing
+3. How the Levenshtein and the Hamming Distance differs.

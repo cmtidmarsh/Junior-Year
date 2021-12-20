@@ -1,0 +1,20 @@
+C343 / Summer 2020
+lab notes - 04
+July 1st, 2020 14:08
+Clare Tidmarsh, cmtidmar
+
+
+
+For this Lab 04 participation, in your class notes, write down at least 3 items of importance that you noticed during Lab 04,
+or 3 new items that you learned during Lab 04.
+
+3 items of importance:
+
+1. find out how many times the for-loop will run then multiply that by the time complexity value of the first
+inner for-loop running.
+
+2. Don't just implement the instructions of the assigment, but rather we should clarify the steps that we do at each point
+to make sure it works and to see what it is actually doing, so then it'll eventually come naturally and you'll know exactly 
+what's happening.
+
+3. To know that the upper bound is average, then the lower bound has to be equal to the upper bound.

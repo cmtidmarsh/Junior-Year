@@ -1,0 +1,33 @@
+C322 / Spring-2021
+April 21, 2021
+Team/Student Contract
+
+Team 4
+Christian Dummer cjdummer@iu.edu
+Samantha Sharp sharpsam@iu.edu
+Adam Wittenberg adamwitt@iu.edu
+
+Source Files
+- Controller.java
+- ForagerInterface.java
+- ForagerModel.java
+- Pair.java
+- Player.java
+- PlayerDecorator.java
+- Tile.java
+- TileDecorator.java
+- TileZero.java
+- TileOne.java
+- TileTwo.java
+- TileThree.java
+- TileFour.java
+- TileFive.java
+- TileSix.java
+- TileSeven.java
+- View.java
+- permit
+
+Submitted April 21, 2021
+
+We have read and accepted the IU Code of Student Rights, Responsibilities, and Conduct
+and agree to uphold and maintain academic and professional honesty and integrity.

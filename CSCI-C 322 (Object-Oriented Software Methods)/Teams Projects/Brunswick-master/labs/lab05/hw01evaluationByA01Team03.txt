@@ -1,0 +1,26 @@
+The git repo was nearly purfect but Brunswick team 1 didn't create proper labs folder for their lab04  
+Read/me		Use Case	Class Diagram	Activity Digram
+0.5*1 +		+ 0.5*0.8 	+ 0.5*1 	+ 0.5 * 1
+
+Read/me:
+	Isn't in a seprate readme file but other wise a really good descripiton 
+0.5*1 + 0.5 * 1 = 25 points
+
+Use Case:
+	Could really benift from arrows between the fucntions the user is using
+	The diagram could show the difference between what functions are performed by the user and which are performed by the program itself. 
+0.5 * 0.6 + 0.5 *1 = 20
+
+Activity Digram:
+	The valid number given and vaild operation given gave us a hard time.
+	The diagram overall shows all the possible paths the user and program could take which is good.
+	The use result option is nice to contine the flow of the program. 
+0.5 * 1 + 0.5 * 0.8 = 22.5
+
+Class Diagram:
+	Very well put together! The view is amazing, and good use of the obserable
+	Shows the relation between the model, view, and controller in a clear easy to read way.
+0.5*1 + 0.5 * 1 = 25 points
+
+
+ 

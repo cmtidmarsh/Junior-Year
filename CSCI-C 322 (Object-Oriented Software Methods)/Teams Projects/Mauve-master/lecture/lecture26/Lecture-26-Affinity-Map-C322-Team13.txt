@@ -1,0 +1,24 @@
+C322 / Spring 2021
+Lecture-26
+4/21/2021 11:59 p.m.
+
+Team 13:
+Zach Barnett zabarn@iu.edu
+Dylan Herthoge dherthog@iu.edu
+
+Affinity Map:
+--------------
+
+Zach's Questions:
+
+- How can we deal with two people generating the same random ID?
+  Answer: when we add it to the HashMap of players, if that ID already exists, increase the current playerID by 1 and store it.
+  
+- Should we also call updateResources based on a player picking up a resources, to prevent others from going to pick it up
+  if the timer hasn't already updated the boar?
+  Answer: Yes, we can call updateResources in the getResource method.
+  
+- Will we need to modify the RMI to begin the game, end the game, or to remove a player if he leaves?
+  Answer: We likely will have to modify the RMI the begin the game, end the game, and deal with players leaving.
+  
+Dylan was part of Assignment 02 Team 03 and therefore had no questions.

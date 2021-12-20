@@ -1,0 +1,8 @@
+C322 / Spring 2021
+Lab04
+02/11/2021
+Team 9
+
+Espresso $1.99
+TALL Dark Roast Coffee, Mocha, Mocha, Whip $1.89
+VENTI House Blend Coffee, Soy, Mocha, Whip $1.54

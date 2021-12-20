@@ -1,0 +1,25 @@
+Group 13: Kevin Cao(kevcao@iu.edu), Adam Hilinski(ajhilins@iu.edu), Luke Klein(luklein@iu.edu)
+
+Part 1:
+	The repository is organized properly.
+	
+Part 2 (77.5pts/100pts):
+	README/General Description: (22.5pts/25pts)
+		Documentation: (Excellent 100%) No UML needed here.
+		Specifications: (Adequate 80%) It does not include visual of the app.
+	
+	UML-UseCase Diagram: (20pts/25pts)
+		Documentation: Poor(60%), there should be grouping of the elements. I.E. 'press1, press0' should be 'user input'. Portions
+		of the UML cse case were not in standard notation.
+		Specifications: Excellent(100%), every part of the calculator is included in the use-case diagram.
+		
+	UML-Class Diagram: (10pts/25pts)
+		Documentation: (Insufficent 20%) There were no notes. UML notation was not followed there were many missing parts. I.E. no indication
+		of how the model interacts with controller. Lacked function parameters, type mismatches, duplicated functionality between model and 
+		controller. Improper classing. MVC not followed, controller functions as model.
+		
+		Specifications: (Poor 60%) Its difficult to properly evaluate when the UML is in this state.
+		
+	UML-Activity Diagram: (25pts/25pts)
+		Documentation: (Excellent 100%) Proper UML conventions were followed. It shows the flow of activity well.
+		Specifications: (Excellent 100%) Not missing any of the requirements for the activity diagram.

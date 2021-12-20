@@ -1,0 +1,23 @@
+C322
+Assignment 03 Team/Student Contract
+Team Number: 13
+Team Members: Zach Barnett           zabarn@iu.edu
+			  Dylan Herthoge         dherthog@iu.edu
+			  Christopher Stephens   stephchw@iu.edu
+			  
+List of files:
+- Controller.java
+- Model.java
+- ModelIntf.java
+- PairFactory.java
+- Pair.java
+- View.java
+- Input.txt
+- a03-README-Team13.txt
+- a03-UMLClassDiagram-Team13.txt
+- team-student-contract.txt
+
+
+
+
+We have read and agree to uphold and maintain academic and professional honesty and integrity.

@@ -1,0 +1,27 @@
+Documentation 50
+	1. UML Use CaseDiagrams 
+		The diagram is clearly labelled and neat in presentation. There does not appear to be a reason to reduce points.
+	2. 3 seperate UML Class Diagrams 
+		There is only 1 of the 3 required diagrams, however it is suffiencnt in its documentation such that while this is not good code design, is functional.
+		Therefore, we do not see a reason to reduce points.
+	3. Brief Description 
+		This description accurately describes what a binary caluclator is and what it is used for. Therefore we do not see a reason to reduce points
+	4. UML State Diagram 
+		This diagram is clearly labeled and neat in presentation. There does not appear to be a reason to reduce points.
+
+Specification 47.7
+	1. UML Use CaseDiagrams (turned in correctly)
+		This diagram fulfills its function and fullfills specification. Therefore no point reduction.
+	2. 3 seperate UML Class Diagrams (Turned in only 1 of 3)
+		This diagram, as there is only 1 instead of the specified 3, loses points. Moreover, while it is functional design, is not what was asked. Therefore, we reduce 
+		the total points for this submission by 66% or 8.3 points
+	3. Brief Description (turned in correctly) 
+		This desciption is exactly as it was asked. Therefore no point reduction.
+	4. UML State Diagram (turned in correctly)
+		This diagram is as specified and fulfils its funtion. Therefore no point reduction.
+
+
+Fixes
+Added in three variables a Jlabel, JFrame and JPanel. These were mostly to make a window rather than to do with a generic implementaiton. We did not implement the clear screen function as it was not necessary.
+We did not include the binToDec and decToBin functions because when we tried to implement them they did not work, instead we implemented function of adding binary strings together.
+We instead of having events in the controller, passed strings to the controller from the listners of buttons in the view. TO do this we also had to have two functions which added a reference to the controller to the view and a reference to the view from the controller. 

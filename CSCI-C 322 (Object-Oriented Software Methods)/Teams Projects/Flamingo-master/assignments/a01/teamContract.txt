@@ -1,0 +1,23 @@
+C322 / Spring 2021
+
+Team 09
+Christopher Kazmierzak : cjkazmie@iu.edu
+Tyler Burdon : tcburdon@iu.edu
+Joe Soellner : josoell@iu.edu
+
+List of files:
+ - src
+   - Background.java
+   - Button.java
+   - Controller.java
+   - Display.java
+   - Label.java
+   - Model.java
+   - View.java
+ - teamContract.txt
+ - hw01evaluationByA01Team09.txt
+ - documentofchanges-a01-team9.txt
+
+Feb. 19, 2021
+
+All team members have read and accepted the IU Code of Student Rights, Responsibilities, & Conduct. We also agree to "Uphold and maintain academic and professional honesty and integrity".

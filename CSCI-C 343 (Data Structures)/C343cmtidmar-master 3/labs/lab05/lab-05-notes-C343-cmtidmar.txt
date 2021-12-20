@@ -1,0 +1,15 @@
+C343 / Summer 2020
+Lab Mini Assignment - 04
+July 1, 2020 5:00
+Clare Tidmarsh, cmtidmar
+
+For this Lab 05 participation, in your class notes, write down at least 3 items of
+importance that you noticed during Lab 05, or 3 new items that you learned during Lab 05.
+
+Items of learned:
+1. Grant had Office Hours from 11:30 - 12:30 - but are those everyday or are they only when the AIs specify specifically?
+2. I learned that because I really didn't do the previous tweet assignment due to time management and me having to move out of 
+my apartment completely the day it was due, I found this lab to be alittle more challenging.
+3. I learned that when a majority of code is given, then the assignment is actually a little harder rather than being about to
+just do everything the way you would think to do it. You have to adjust, so you van utilize what is given to you.
+4. I also learned that by the end of this class, I feel like I'm going to really know how to implement ArrayLists like it's second nature. 

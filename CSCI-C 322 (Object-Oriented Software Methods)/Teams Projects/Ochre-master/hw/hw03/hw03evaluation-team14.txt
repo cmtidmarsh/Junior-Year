@@ -1,0 +1,62 @@
+C322 / Spring 2021 / hw03 / 4-5-2021
+
+Team 14:
+	Adam Hilinski (ajhilins@iu.edu)  
+	Adam Wittenberg (adamwitt@iu.edu)
+	Will Boland (woboland@iu.edu)
+
+
+Team 15 Evaluation 
+	Documentation: 100% 
+	Very easy to read and follow diagram, was easy to understand the workflow and 
+	what they wanted to accomplish from their diagram. 
+	
+	Specifications: 80% 
+	Could have indicated which classes are part of the server vs the client, and maybe given
+	a better description of the remote object interface.
+
+	Total Points:
+	1 * 0.5 + 0.8 * 0.5 = 90 % = 90/100
+	
+Team 16 Evaluation 
+	Documentation: 90%
+	Definitely weren't missing anything from the diagram but there was so much going on it was tough to follow
+	and kind of unorganized.
+	Specifications: 100%
+	Plenty of detail and would be very easy for a developer to pick up and implement, although it probably could
+	be simplified. 
+
+	Total Points:
+	0.9 * 0.5 + 1 * 0.5 = 95% = 95/100
+	
+Team 17 Evaluation 
+
+	- Lecture 17 (100%)
+		Documentation: Excellent(100%) The UML diagram is made well, it is clearly understandable.
+		Specifications: Excellent(100%) There are no design specifications missing.
+		
+	-Lecture 18 (100%)
+		Documentation: Excellent(100%) The UML diagram is made well, it is clearly understandable.
+		Specifications: Excellent(100%) There are no design specifications missing.
+		Comments: There were two team17 folders one was empty, no changes were made to M-VC vs. MV-C choice.
+	
+	-Lab 10 (0%)
+		There was no upload for Team 17s Lab 10. I cannot give feedback.
+		Total Points: 0/100
+		
+Team 18 Evaluation 
+
+	- Lecture 17 (80%)
+		Documentation: Adequate(80%) The UML diagram is made well, there are some parts that seem to go unused.
+		Specifications: Adequate(80%) The UML diagram has some parts that seem to be unused in it.
+		
+	-Lecture 18 (70%)
+		Documentation: Poor(60%) Did no provide a readme, the UML diagram is well made, it is concise and easy to follow.
+		Specifications: Adequate(80%) Did no provide a readme.
+		Comments: Did not supply a readme, no changes were made to M-VC vs. MV-C choice
+	
+	-Lab 10 (100%)
+		Documentation: Excellent(100%) The UML diagram is the same one they used for Lecture 18. It is made well and is concise and easy to follow.
+		Specifications: Excellent(100%) There are no design specifications missing.
+		Total Points: 100/100
+		

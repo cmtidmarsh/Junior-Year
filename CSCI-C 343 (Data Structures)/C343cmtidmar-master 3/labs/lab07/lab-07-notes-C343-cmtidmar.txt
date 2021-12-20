@@ -1,0 +1,10 @@
+For this Lab 07 participation, in your class notes, write down at least 3 items of importance that you noticed during Lab 07,
+or 3 new items that you learned during Lab 07.
+
+3 items of importance:
+
+1. Being refreshed on Binary Search Trees and how the algorithm works, so you can understand what is happening in the starter
+  codes and how to proceed from there.
+2. Being refreshed on generic types from C212
+3. Being able to manually get preorder, inorder, and postorder of the elements, so you can check whether your java
+  implementation is working correctly. 

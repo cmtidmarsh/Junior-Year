@@ -1,0 +1,11 @@
+Clare Tidmarsh, cmtidmar@iu.edu
+Ploy Unchit punchit@iu.edu
+
+ List of files for Assignment01:
+ binaryCalcModel.java
+ binaryCalcView.java
+ binaryCalcController.java
+ hw01evaluationByA01Team04.txt
+
+Statement: I have read through and accepted the IU Code of Student Rights, Responsibilities, and Conduct. I agree to uphold and maintain academic and professional
+honesty and integrity.

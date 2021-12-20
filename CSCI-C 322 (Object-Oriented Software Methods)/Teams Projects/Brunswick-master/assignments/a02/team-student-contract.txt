@@ -1,0 +1,28 @@
+C322
+Assignment 03 Team/Student Contract
+Team Number: 3
+Team Members: Tyler Burdon      tcburdon@iu.edu
+			  Jiaqi Huang       jh106@iu.edu
+			  Dylan Herthoge    dherthog@iu.edu
+			  
+			  
+List of files:
+- Cell.java
+- ConcretePlayer.java
+- Controller.java
+- ForagerGame.java
+- ForagerIntf.java
+- Pair.java
+- Player.java
+- PlayerDecorator.java
+- ThreePair.java
+- View.java
+- initial-board.txt
+- a02-README-Team3.txt
+- a02-UMLClassDiagram-Team3.txt
+- team-student-contract.txt
+
+
+
+
+We have read and agree to uphold and maintain academic and professional honesty and integrity.

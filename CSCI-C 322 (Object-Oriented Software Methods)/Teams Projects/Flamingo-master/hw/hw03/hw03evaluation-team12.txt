@@ -1,0 +1,40 @@
+ Spring 2021 C322
+ Andrew Chitester
+ anchit@iu.edu
+
+Hello, here is my contribution 
+The evaluation of Team12.
+
+ Team12 (Team 9 + 2):
+  Organization:
+  correct lab10 -0
+  correct lecture18 -0
+  incorrect lecture17 (2 files containing similar pdfs) -2% //it's insignificant but I have to do it to you guys :(
+
+  Description (Labs/Lab10/Team-12/lab-10-...) 
+   Minimal description - this implies that they didn't need to change M-VC to MV-C. There is a barrier between the Model and Controller and View that demonstrates a divide between the server and the client. Because of this I'll give them a poor grade. I would have liked to see more description about which classes are remote objects and such, just stating which is client and server side doesn't seem to be enough to communicate to somone who hardly knows Java to implement this. 
+
+  Description (Lecture/Lecture18/Team-12/lecture-18-...)
+   Their descriptives are generally the same, they have 'Server Side' demonstrating everything on the server side of things, and 'Client Side' demonstrating the Client. Between these, again, is a 'Server/Client Divide' - that seems like an adequate descrption for this lecture task. Keyword 'adequate' this is not excellent work as it seems like they could describe things a bit more, and it is not poor because they have everything they need to get the job done.
+
+   Description (Lecture/Lecture17/Team-12/lecture-17-...)
+    The pdfs are similar so I chose lecture-17-.. to grade as it seems like a correct named file.
+    ....
+    Again, minimal descriptions but it seems adequate enough - not poor, as their is sustenance to the minimalism, but not excellence cause it could use more.
+
+
+   Design (Labs/Lab10/Team-12/lab-10-...)
+    The design is valid. I believe that it would work and it seems that this team has a general understanding of java.rmi I grade this as an excellent, but would like to mention that it is a nice touch to add 'implements' and 'extends' over the arrows to make the readability easier.
+
+   Design (Lectures/Lecture18/Team-12/lecture-18-...)
+    The design is valid. they are using the correct arrows to demonstrate extendingand implementing, yet the general GameController has a directed arrow pointing to GameView , where I believe it shouldn't have an arrow as they are just associated together. Adequate - it's not excellent because the scope of things isn't perfect, yet it isn't poor because they get the job done.
+
+   Design (Lecture/Lecture17/Team-12/lecture-17-...)
+    Their design (again) is valid. This time, they didn't bother to rename the classes and left 'CalculatorModel' where I believe we are describing Game of Life with this diagram. this makes it lean on the poorer side of adequate - what a shame.
+
+ Labs/Lab10/Team-12/lab-10... -> Adequate (80%) Description, Excellent (100%) Diagram -> 90%
+ Lectures/Lecture18/Team-12/lecture-18-... -> Adequate (80%) Description, Adequate (80%) Design -> 80%
+ Lectures/Lecture17/Team-12/lecture-17-... -> Adequate (80%) Description, Adequate (80%) Design -> -2% organization -> 78%
+
+ Overall = (90 + 80 + 78) / 3
+

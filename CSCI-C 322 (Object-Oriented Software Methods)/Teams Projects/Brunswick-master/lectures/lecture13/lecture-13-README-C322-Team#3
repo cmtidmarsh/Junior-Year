@@ -1,0 +1,8 @@
+Group 3
+Ben Billings (benbilli@iu.edu),
+Jiahui Chang(chanji@iu.edu),
+Christopher Taddeucci(ctaddeuc@iu.edu)
+3/3/2021
+
+When running DJTedtDrive, the compiler gave the error,
+'java: cannot find symbol.symbol:HttpServlet'.

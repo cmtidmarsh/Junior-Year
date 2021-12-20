@@ -1,0 +1,30 @@
+Sunil Sakthivel ssakthi@iu.edu
+Riley Campbell riricamp@iu.edu
+Zach Wendholt zwendhol@iu.edu
+
+---Files Turned in for A03---
+TeamContract.txt
+A03-README-Canary.txt
+Controller.java
+ForagerInterface.java
+ForagerModel.java
+Pair.java
+permit
+Player.java
+PlayerDecorator.java
+sources.txt
+Title.java
+TitleDecorator.java
+TitleFive.java
+TitleFour.java
+TitleOne.java
+TitleSeven.java
+TitleSix.java
+TitleThree.java
+TitleTwo.java
+TitleZero.java
+View.java
+
+A03 will be submitted before 11:59 on May 2 2021
+
+We have read and accept the IU Code of Student Rights, Responsibilities, & Conduct. We agree to "Uphold and maintain academic and professional honesty and integrity".

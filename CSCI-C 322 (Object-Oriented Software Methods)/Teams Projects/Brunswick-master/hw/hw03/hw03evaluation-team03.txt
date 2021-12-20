@@ -1,0 +1,294 @@
+//C322
+//3-29-21
+//Lecture19: Team 03
+//Lecture Tasks
+//Chris Taddeucci
+//Benjamin Bellings
+//Jiahui Chang
+
+
+
+TASK A
+-------
+we are basing our evaluation on lucidchart's UML examples and documentation.
+
+Team 4:
+
+-lecture 17:
+#has uml 
+Team 4's uml fails to define the RMI with client and server objects. 
+Methods and variables are not separated and datatypes are not provided. 
+No view was provided. 
+Unclear implementation of clients and servers. 
+Missing observer/observable interface from UML.
+Model and Controller are present
+Provided proper access modifiers
+
+Evaluation: 
+
+Documentation - 80%
+
+As stated above, the UML is lacking datatypes and variables. However, Team 4 provided proper access modifiers for each class. 
+
+Specifications - 60%
+
+The Team did not provide a view class for a MV-C or M-CV design pattern UML. Also, the team did not properly represent the RMI client-server relationship between Model, View, and Controller. Because of this, our team believes the document is missing key components to implement either pattern properly. 
+
+Final Grade: 0.8*0.5 + 0.6*0.5 = 0.7 = 70%
+
+
+
+-lecture 18:
+#has uml
+RMI is present. 
+Client and Server relationship is clearly defined.
+Observer interface is represented.
+design pattern is clearly defined and implemented (M-VC).
+some methods and variables missing datatypes (inconsistent).
+Provided proper access modifiers. 
+Used proper relationship lines for inheritance and association. 
+
+Evaluation: 
+
+Documentation - 80%
+
+In the lecture 18 UML, Team 4 properly defined access modifiers, methods, and variables pertaining to each class. However some methods and variables are still lacking datatypes. 
+
+
+Specifications - 100%
+
+Team4 properly shows the relationship between client and server with RMI, as well as providing interfaces for observer and rmi. 
+
+Final Grade: 0.8*0.5 + 1.0*0.5 = 0.9 = 90%
+
+
+-lab10: 
+#has uml
+#uploaded project + readme (instructed not to upload project)
+no changes from lecture 18 uml.
+
+
+Evaluation: 
+
+Documentation - 80%
+
+Specifications - 100%
+
+For lab 10, Team 4 did not change their design from lecture 18; Therefore, the design receives the same score. However, Team 4 did upload their entire lab 10 project to the lab10 folder in the shared repository. This requires us to deduct 8% from the lab 10 score as Team 4 failed to properly organize the lab 10 documents. 
+
+Final Grade: 0.8*0.5 + 1.0*0.5 = 0.9-0.08 = 0.82 = 82%
+
+
+
+
+Team 5:
+
+-lecture 17:
+#has uml
+Lacks variables and methods
+Properly represents RMI interface
+Has Model, View, and Controller classes and shows an MC-V design
+Properly shows Binary Calculator classes/methods.
+RMI interface relationship is not properly represented (no inheritance arrows).
+
+Evaluation:
+
+Documentation - 20%
+
+Team 5's, UML is lacking any methods or variables and datatypes within each class. 
+Also, some relationships are not properly represented in the design. Specifically, the RMI interface should have an inheritance relationship with the server and client. 
+
+
+Specification - 60%
+
+While Team 5 provides a decent layout for an MC-V design, their UML improperly implements RMI as the client and server both inherit from the RMI interface. Therefore, in this design, it is unclear how the client would interact with the server.
+
+
+Final Grade: 0.2*0.5 + 0.6*0.5 = 0.4 = 40%
+
+-lecture 18:
+#has uml
+Lacks server-client definition. 
+Improperly represents how the interface and controller implement RMI. 
+Variables lack private or public access modifiers. 
+Provides detailed classes with variables and methods.
+Each variable and method includes datatype and parameters. 
+Lacks an observable class. 
+
+Evaluation:
+
+Documentation - 80%
+
+Team 5 gave a detailed UML diagram to implement RMI with an M-VC pattern. The team closely followed UML guidelines; However, the team misses some RMI documentation and fails to define the server and client in the diagram
+
+Specification - 80%
+
+Team 5 properly detailed each method and variable in the diagram. The team is lacking some important interfaces and classes such as observable, RMI remote object. It is also unclear how the server and client interact with each other in the diagram as both inherit from java.rmi.remote.
+
+
+Final Grade: 0.8*0.5 + 0.8*0.5 = 0.8 = 80%
+
+
+
+-lab10: 
+#has uml
+
+
+Evaluation:
+
+Team 05's UML has remained unchanged from lecture 18 to lab 10; Therefore, their evaluation remains unchanged as well. 
+
+Documentation - 80%
+
+Specification - 80%
+
+Final Grade: 0.8*0.5 + 0.8*0.5 = 0.8 = 80%
+
+Team 6:
+
+-lecture 17:
+#has uml
+Missing model, view, and controller classes.
+Inconsistent variable representation. 
+Unclear relationship between ClientView2 and ClientView3 with CalculatorServer.
+RMI is properly represented in diagram
+
+Evaluation:
+
+Documentation - 80%
+
+Team 6's UML lacks a consistent representation of variables in the diagram. The diagram is missing some parameter variables as well. 
+
+Specification -  60%
+
+The UML lacks model, view, and controller classes. While the design does has a server and client, neither are represented as model or controller. The relationship between cleints and the server is also unclear.
+
+Final Grade: 0.5*0.8 + 0.5*0.6 = 70%
+
+
+-lecture 18:
+#has uml
+Properly states the type of pattern implemented. 
+Gives detailed classes and properly defines model, view and controller.
+Shows relationships with interfaces and superclasses. 
+Some variables lack access indicators. 
+Observable is represented as an interface when it is a superclass. 
+
+Evaluation:
+
+Documentation - 80%
+
+UML properly states relationships between each class. However arraylist and model/view object variables lack proper access modifiers. 
+
+Specification - 80%
+
+Observable shown as interface when it is a superclass. 
+
+Final Grade:  0.8*0.5 + 0.8*0.5 = 0.8 = 80%
+
+-lab10: 
+#has uml
+
+Evaluation:
+
+UML remains unchanged from lecture 18.
+
+Documentation - 80%
+
+Specification - 80%
+
+Final Grade: 0.8*0.5 + 0.8*0.5 = 0.8 = 80%
+
+Team 7:
+
+-lecture 17:
+#missing readme
+#has uml
+View variables missing access modifiers.
+Properly shows M-VC design.
+Properly implements UnicastRemoteObject and RMI interface. 
+Client-Server clearly defined.
+client and server interaction clear. 
+
+Evaluation:
+
+Documentation - 80%
+
+UML lacks some access modifiers on the variables. 
+
+Specification - 100%
+
+UML properly shows the relationship between client and server, while also properly implementing RMI.
+
+-2% for missing readme. 
+
+Final Grade: (0.5*0.8+1.0*0.5)-0.02 = 0.88 = 88%
+
+
+
+
+-lecture 18:
+#missing readme
+#has uml
+variables and access modifiers are properly represented. 
+Properly shows view's relationship with JFrame, JPanel and JButton. 
+Model properly inherits from RMI.
+Node class properly implements observable and CellObserver properly implements the observer interface. 
+
+Evaluation:
+
+Documentation - 100%
+
+No errors in variable datatypes, access modifiers or relationships. 
+
+Specification -  100%
+
+Properly implements interfaces and superclasses. 
+
+-4% for lack of readme. 
+
+Final Grade:(0.5*1.0+0.5*1.0) - 0.04 = 0.96 = 96%
+
+-lab10: 
+#has uml
+Design is similar to lecture 18's UML; However now the design is missing the observable class and observer interface.
+
+Evaluation:
+
+Documentation - 100%
+
+Specification - 100%
+
+Final Grade: 0.5*1.0+0.5*1.0 = 100%
+
+
+------
+TASK B
+------
+
+Ranking: 
+
+1.  team12
+2.  team16
+3.  team03
+4.  team06
+5.  team04
+6.  team10
+7.  team05
+8.  team07
+9.  team02
+10. team09
+11. team15
+12. team13
+13. team08
+14. team18 - missing UML
+15. team17 - missing UML
+16. team14 - missing UML
+17. team11 - missing UML
+18. team01 - missing UML
+
+
+
+
+
+

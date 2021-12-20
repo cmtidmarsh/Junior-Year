@@ -1,0 +1,72 @@
+Group 3
+Ben Billings (benbilli@iu.edu),
+Jiahui Chang(chanji@iu.edu),
+Christopher Taddeucci(ctaddeuc@iu.edu)
+2-24-21
+
+-command advantage: command pattern is easily swappable with different commands
+
+-command disadvantage: need a lot of subclasses
+
+-lambda advantage: generic expression so doesn't need name
+
+-lambda disadvantage: can't contain global variables
+
+-global variable advantage: easily accessible
+
+-global variable disadvantage: Global variable has no encapsulation
+
+-singleton advantage:In the singleton pattern, there is only one instance of an active singleton, and all instantiations of the singleton class result in the same instance. This prevents other objects from instantiating themselves and ensures that all objects access one instance
+
+The singleton pattern is scalable in that the class itself controls the instantiation process, and the class is scalable in changing the instantiation process.
+
+Provides controlled access to a unique instance.
+
+Since only one object exists in system memory, it saves system resources, and singletons can definitely improve system performance when objects need to be created and destroyed frequently.
+
+Allows a variable number of instances.
+
+Avoid multiple occupancy of shared resources.
+
+-singleton disadvantage:This does not apply to objects that change. If objects of the same type always change in different use case scenarios, singletons will cause data errors and will not be able to save each other's state.
+
+Because there is no abstraction layer in the simple-interest pattern, it is very difficult to extend the singleton classes.
+
+The responsibility of singleton class is too heavy, which violates the "single responsibility principle" to some extent.
+
+Abuse of singleton will bring some negative problems, such as the database connection pool object is designed as a singleton class to save resources, may lead to the connection pool overflow caused by too many programs sharing the connection pool object; If the instantiated object is left unused for a long time, the system will consider it garbage and collect it, which will result in the loss of object state.
+
+
+Global variable:
+
+Pro:
+global variables are easily accessible by any class.  
+
+
+Con:
+
+global variable no encapsulation (lack of protection)
+
+
+Command Pattern:
+
+Pro: 
+
+generalizes communication with the client, command object, and invoker. 
+Easily adjusted to support different commands. 
+
+Con:
+
+command pattern requires subclasses that define an action.
+
+lambda-expression:
+
+Pro:
+
+can be instantiated without belonging to a class.
+
+
+Con:
+
+Cannot contain variables
+

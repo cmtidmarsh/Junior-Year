@@ -1,0 +1,2 @@
+I was able to get most of the RMI code into my existing project but I didn't have enough time to test it.
+I followed the design of adding the server to the interface and then calling it in the main method.

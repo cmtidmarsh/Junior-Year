@@ -1,0 +1,7 @@
+Team 4 lab 04 Output:
+
+Espresso, Mocha $2.19
+Dark Roast Coffee 
+Size: TALL, Mocha, Mocha, Whip $1.49
+House Blend Coffee 
+Size: TALL, Soy, Mocha, Whip $1.69

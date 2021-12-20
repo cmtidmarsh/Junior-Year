@@ -1,0 +1,39 @@
+C322 / Spring 2021
+Assignment01
+2/19/2021
+
+Team 09:
+Tyler Burdon : tcburdon@iu.edu
+Joe Soellner : josoell@iu.edu
+Chris Kazmierzak : cjkazmie@iu.edu
+
+
+HW01 Evaluation:
+
+The organization is overall very good. Only incorrect thing is that the use case and activity UML diagram were not named correctly.
+
+
+The team seemed to mix up the functionalities of the View and the Controller and most of the methods and classes that belong to the View were found in the Controller.
+The team also had some overlap and defined methods in both the Model and Controller when they only needed to be defined inside the Model.
+We also noticed some incorrect use of defining variables in the View diagram - incorrect shape for the model, but these things are negligible
+
+
+UML Use Case Diagram: 90%
+Documentation: 100%
+Specifications: 80%
+
+UML Class Diagram: 90%
+Documentation: 100%
+Specifications: 80%
+
+README: 100%
+Documentation: 100%
+Specification: 100%
+
+UML State Diagram: 100%
+Documentation: 100%
+Specification: 100%
+
+Total: 95%
+
+Couldn’t find previous teams’ emails or names, so had to do some sleuthing. Think we found an email address and sent it an email.

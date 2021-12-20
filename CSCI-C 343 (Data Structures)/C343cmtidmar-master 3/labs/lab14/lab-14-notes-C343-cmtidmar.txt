@@ -1,0 +1,12 @@
+
+C343 / SUMMER 2020
+LAB -14
+JULY 23,2020 12:20
+Clare Tidmarsh, cmtidmar
+
+3 itesm of importance:
+
+1. How the Floyd algorithm works and what exactly you're trying to achieve (still do not totally understand it all)
+2. How to find the shortest path
+3. Can you apply the shortest path to individual components in a graph or does the graph have to be one big component, seeing
+as how we just did another lab on components. 
